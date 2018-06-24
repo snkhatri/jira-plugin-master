@@ -1,3 +1,4 @@
+
 The MIT License
 
 Copyright (c) 2007, Kohsuke Kawaguchi and jira-plugin contributors
